@@ -28,11 +28,6 @@ A smart and interactive **Virtual Assistant** application built using the MERN s
 
 *(Add screenshots here if available)*
 
----
-
-## ⚡ Installation
-
-*(Instructions for running locally, same as before)*
 
 ---
 
